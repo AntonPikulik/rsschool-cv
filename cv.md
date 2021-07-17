@@ -26,3 +26,14 @@ const person = people.find((person) => {
 	console.log(person)
 
 ```
+_Work experience__
+At the moment I have no experience in IT companies.
+
+__Education__
+1. Minsk State Automotive College: specialty electronics technician.
+2. Minsk State University of Informatics and Radioelectronics: specialty - engineer in radioelectronics.
+3. Minsk State University of Informatics and Radioelectronics: Master of Technical Sciences.
+4. Software tester courses.
+
+__English__
+During the years of study in educational institutions, I had a good level of language proficiency, but due to the lack of constant practice, the level dipped. I undertake to tighten it up in the near future.
